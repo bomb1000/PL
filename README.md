@@ -4,7 +4,7 @@
 姓名：鍾孟傑<br><br>
 系級：選讀生<br><br>
 # 課程筆記區
-[最新筆記](https://trapezoidal-patella-923.notion.site/8734b6f073f54d3eb246566f0528673f)
+[最新筆記](https://hackmd.io/@bomb1000/rJYwKQD2p)
 <br><br>
 # 作業連結區
 [HW1](https://github.com/bomb1000/PL/tree/main/PL_HW1)
