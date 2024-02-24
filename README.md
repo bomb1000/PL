@@ -7,6 +7,15 @@
 [最新筆記](https://trapezoidal-patella-923.notion.site/8734b6f073f54d3eb246566f0528673f)
 <br><br>
 # 作業連結區
+[HW1](https://github.com/bomb1000/PL/tree/main/PL_HW1)
+<br><br>
+[HW2](https://github.com/bomb1000/PL/tree/main/PL_HW2)
+<br><br>
+[HW3](https://github.com/bomb1000/PL/tree/main/PL_HW3)
+<br><br>
+[HW4](https://github.com/bomb1000/PL/tree/main/PL_HW4)
+<br><br>
+[HW4](https://github.com/bomb1000/PL/tree/main/PL_HW5)
 <br><br>
 # 專題連結區
 <br><br>
