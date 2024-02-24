@@ -4,7 +4,7 @@
 姓名：鍾孟傑<br><br>
 系級：XX系XX年級<br><br>
 # 課程筆記區
-[最新筆記]()
+[最新筆記](https://www.notion.so/8734b6f073f54d3eb246566f0528673f)
 <br><br>
 # 作業連結區
 <br><br>
