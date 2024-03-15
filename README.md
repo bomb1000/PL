@@ -9,7 +9,7 @@
 # 作業連結區
 [HW1](https://github.com/bomb1000/PL/tree/main/PL_HW1)
 <br><br>
-[HW2](https://github.com/bomb1000/PL/tree/main/PL_HW2)
+[HW2](https://github.com/bomb1000/PL/blob/main/PL_HW2/HW_2.ipynb)
 <br><br>
 [HW3](https://github.com/bomb1000/PL/tree/main/PL_HW3)
 <br><br>
