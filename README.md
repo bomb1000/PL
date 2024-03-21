@@ -6,8 +6,8 @@
 # 課程筆記區
 [最新筆記](https://hackmd.io/@bomb1000/rJYwKQD2p)
 
-# W2 class
-# W3 class
+#### W2 class
+### W3 class
 <br><br>
 # 作業連結區
 [HW1](https://github.com/bomb1000/PL/tree/main/PL_HW1)
