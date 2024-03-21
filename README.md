@@ -29,7 +29,7 @@
 #### W4 class
 - Exercise: [Json data practice](https://github.com/bomb1000/PL/blob/main/01_Notes/exercise_0314_W4/Json_Practice.ipynb)
 #### W5 class
-- Exercise: [Regex practice]()
+- Exercise: [Regex practice](https://github.com/bomb1000/PL/blob/main/01_Notes/exercise_0321_W5/regex_practice.ipynb)
 #### W6 class
 - Exercise: 
 #### W7 class
