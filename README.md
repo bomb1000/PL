@@ -21,29 +21,29 @@
 [最新筆記](https://hackmd.io/@bomb1000/rJYwKQD2p)
 
 #### W2 class
-- test
-- test 2
-- 
+- Sync files between local and GitHub: use [GitHub Desktop](https://desktop.github.com/)
+- Exercise: 
+  
 #### W3 class
-
+- Exercise: 
 #### W4 class
-
+- Exercise: 
 #### W5 class
-
+- Exercise: 
 #### W6 class
-
+- Exercise: 
 #### W7 class
-
+- Exercise: 
 #### W8 class
-
+- Exercise: 
 #### W9 class
-
+- Exercise: 
 #### W10 class
-
+- Exercise: 
 #### W11 class
-
+- Exercise: 
 #### W12 class
-
+- Exercise: 
 #### W13 class
 
 #### W14 class
