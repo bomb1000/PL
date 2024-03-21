@@ -5,9 +5,9 @@
 系級：選讀生 (學號: 91299217Y)<br><br>
 
 # 作業連結區
-[HW1](https://github.com/bomb1000/PL/tree/main/PL_HW1)
+[HW1](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW1/HW_1.ipynb)
 <br><br>
-[HW2](https://github.com/bomb1000/PL/blob/main/PL_HW2/HW_2.ipynb)
+[HW2](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW2/HW_2.ipynb)
 <br><br>
 [HW3](https://github.com/bomb1000/PL/tree/main/PL_HW3)
 <br><br>
