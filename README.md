@@ -22,14 +22,14 @@
 
 #### W2 class
 - Sync files between local and GitHub: use [GitHub Desktop](https://desktop.github.com/)
-- Exercise: 
+- Exercise: [Demostrating LLM with RAG](https://github.com/bomb1000/PL/blob/main/01_Notes/exercise_0229_W2/LLM_RAG/RAG-Student-Success.ipynb)
   
 #### W3 class
-- Exercise: 
+- Exercise: [Data visualization practice](https://github.com/bomb1000/PL/blob/main/01_Notes/exercise_0307_W3/Data_viz_practice.ipynb)
 #### W4 class
-- Exercise: 
+- Exercise: [Json data practice](https://github.com/bomb1000/PL/blob/main/01_Notes/exercise_0314_W4/Json_Practice.ipynb)
 #### W5 class
-- Exercise: 
+- Exercise: [Regex practice]()
 #### W6 class
 - Exercise: 
 #### W7 class
