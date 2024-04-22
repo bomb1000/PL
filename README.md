@@ -9,7 +9,7 @@
 <br><br>
 [HW2](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW2/HW_2.ipynb)
 <br><br>
-[HW3](https://github.com/bomb1000/PL/tree/main/PL_HW3)
+[HW3](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW3/HW_3.ipynb)
 <br><br>
 [HW4](https://github.com/bomb1000/PL/tree/main/PL_HW4)
 <br><br>
