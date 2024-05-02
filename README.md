@@ -11,7 +11,7 @@
 <br><br>
 [HW3](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW3/HW_3.ipynb)
 <br><br>
-[HW4](https://github.com/bomb1000/PL/tree/main/PL_HW4)
+[HW4](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW4/HW_4.ipynb)
 <br><br>
 [HW5](https://github.com/bomb1000/PL/tree/main/PL_HW5)
 <br><br>
