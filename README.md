@@ -13,8 +13,6 @@
 <br><br>
 [HW4](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW4/HW_4.ipynb)
 <br><br>
-[HW5](https://github.com/bomb1000/PL/tree/main/PL_HW5)
-<br><br>
 
 
 # 課程筆記區
@@ -57,7 +55,7 @@
 
 # 專題連結區
 [Linebot_PL_Assistant](https://github.com/bomb1000/Linebot_PL_Assistant)
-<br>
+<br><br><br>
 [Demo Video](https://youtu.be/5A34M6gZQsw)
 <br><br>
 Markdown 語法說明：https://markdown.tw/<br><br>
