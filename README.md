@@ -5,34 +5,31 @@
 系級：選讀生 (學號: 91299217Y)<br><br>
 
 # 作業連結區
-[HW1](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW1/HW_1.ipynb)
-<br>
+
+[HW1](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW1/HW_1.ipynb)  
 - Read the data using Python Pandas and convert the DataFrame to a Set data type.
 - Utilize the characteristics of the Set data type to perform union, intersection, and difference analyses.
 - Explain the results of the analysis.
-<br><br>
-[HW2](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW2/HW_2.ipynb)
-<br>
+
+[HW2](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW2/HW_2.ipynb)  
 - Perform EDA on store sales data from Kaggle.
 - Build machine learning model to predict store sales.
-- Make hypothesis based on the previous result and then optimize the the model .
-- Summarize the resultsof the analysis.
-<br><br>
-[HW3](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW3/HW_3.ipynb)
-<br>
+- Make hypothesis based on the previous result and then optimize the the model.
+- Summarize the results of the analysis.
+
+[HW3](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW3/HW_3.ipynb)  
 - Clean the scraped website content using regular expressions.
 - Structure the relevant data into two formats: a DataFrame and a dictionary (you may modularize the code as desired).
 - Export these two data formats into CSV and JSON files, respectively.
 - Create an explanatory video of the code and upload it to YouTube.
-<br><br>
-[HW4](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW4/HW_4.ipynb)
-<br>
+
+[HW4](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW4/HW_4.ipynb)  
 - Continue exploring the dataset obtained from Assignment Three's web scraping.
 - Extract features from the unstructured data.
 - Use jieba for word segmentation and obtain keyword frequencies.
 - Obtain a summary using an LLM (Large Language Model), then extract keywords from the summary.
 - Visualize these features using an association graph.
-<br><br>
+
 
 
 # 課程筆記區
