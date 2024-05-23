@@ -6,6 +6,9 @@
 
 # 作業連結區
 [HW1](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW1/HW_1.ipynb)
+Read the data using Python Pandas and convert the DataFrame to a Set data type.
+Utilize the characteristics of the Set data type to perform union, intersection, and difference analyses.
+Explain the results of the analysis.
 <br><br>
 [HW2](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW2/HW_2.ipynb)
 <br><br>
