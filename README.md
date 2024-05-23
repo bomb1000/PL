@@ -57,5 +57,7 @@
 
 # 專題連結區
 [Linebot_PL_Assistant](https://github.com/bomb1000/Linebot_PL_Assistant)
+<br>
+[Demo Video](https://youtu.be/5A34M6gZQsw)
 <br><br>
 Markdown 語法說明：https://markdown.tw/<br><br>
