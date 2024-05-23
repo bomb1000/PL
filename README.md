@@ -29,19 +29,19 @@
 #### W5 class
 - Exercise: [Regex practice](https://github.com/bomb1000/PL/blob/main/01_Notes/exercise_0321_W5/regex_practice.ipynb)
 #### W6 class
-- Exercise: 
+- Exercise: [Web scraping practice](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW3/web_crawling_test.ipynb)
 #### W7 class
-- Exercise: 
+- No class (Tomb Sweeping Day)
 #### W8 class
-- Exercise: 
+- Exercise: [Data cleaning & Data Visualization](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW3/HW_3.ipynb)
 #### W9 class
-- Exercise: 
+- Exercise: [HuggingFace pipline practice](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW4/HuggingFace_Pipeline.ipynb)
 #### W10 class
-- Exercise: 
+- Exercise: [Try multiple LLM models on HuggingFace](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW4/huggingface_playground.ipynb)
 #### W11 class
-- Exercise: 
+- Exercise: [Data & Text mining on moview review by LLM](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW4/HW_4.ipynb)
 #### W12 class
-- Exercise: 
+- Exercise: [Langchain practice](https://github.com/bomb1000/PL/blob/main/02_Homework/PL_HW4/langchain_playground.ipynb)
 #### W13 class
 
 #### W14 class
