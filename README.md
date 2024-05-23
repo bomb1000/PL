@@ -1,7 +1,7 @@
-# PL
+# PL (Programming Language at National Taiwan Normal University (NTNU) in 2024)
 112-2 師大科技系程式語言<br><br>
-授課教師：蔡芸琤老師<br><br>
-姓名：鍾孟傑<br><br>
+授課教師：蔡芸琤老師(Pecu)<br><br>
+姓名：鍾孟傑(Michael)<br><br>
 系級：選讀生 (學號: 91299217Y)<br><br>
 
 # 作業連結區
