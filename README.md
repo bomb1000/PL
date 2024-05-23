@@ -1,5 +1,5 @@
-# PL (Programming Language at National Taiwan Normal University (NTNU) in 2024)
-112-2 師大科技系程式語言<br><br>
+# PL 
+112-2 師大科技系程式語言 (Programming Language at National Taiwan Normal University (NTNU) in 2024)<br><br>
 授課教師：蔡芸琤老師(Pecu)<br><br>
 姓名：鍾孟傑(Michael)<br><br>
 系級：選讀生 (學號: 91299217Y)<br><br>
@@ -55,7 +55,7 @@
 
 # 專題連結區
 [Linebot_PL_Assistant](https://github.com/bomb1000/Linebot_PL_Assistant)
-<br><br><br>
+<br><br>
 [Demo Video](https://youtu.be/5A34M6gZQsw)
 <br><br>
 Markdown 語法說明：https://markdown.tw/<br><br>
