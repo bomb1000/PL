@@ -73,7 +73,7 @@
 # 專題連結區
 [Linebot_PL_Assistant](https://github.com/bomb1000/Linebot_PL_Assistant)
 <br><br>
-[Demo Video](https://youtu.be/5A34M6gZQsw)
+[Demo Video](https://youtu.be/G15iUnCHSWE?si=6IzIhK9Ggi8DUMCP)
 <br><br>
 Linebot ID & QRcode
 
